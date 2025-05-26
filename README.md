@@ -31,6 +31,7 @@ This project demonstrates **Huffman Coding**, a lossless data compression algori
 3. Run the executable: ./HuffmanEncoding
 
 ✍️ Author
+
 Aishna Gupta
 
 
