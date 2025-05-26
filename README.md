@@ -28,7 +28,7 @@ This project demonstrates **Huffman Coding**, a lossless data compression algori
    git clone https://github.com/aishnagupta31/Huffman-Encoding.git
    cd Huffman-Encoding
 2. Compile the code:  g++ HuffmanEncoding.cpp -o HuffmanEncoding
-3. Run the executable: ,/HuffmanEncoding
+3. Run the executable: ./HuffmanEncoding
 
 ✍️ Author
 Aishna Gupta
